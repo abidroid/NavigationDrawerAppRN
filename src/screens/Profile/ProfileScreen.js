@@ -5,7 +5,7 @@ const ProfileScreen =() => {
 
     return (
         <View>
-            <Text>Home</Text>
+            <Text>Profile</Text>
         </View>
     );
 };

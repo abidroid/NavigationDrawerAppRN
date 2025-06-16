@@ -6,7 +6,7 @@ const SettingsScreen =() => {
 
     return (
         <View>
-            <Text>Home</Text>
+            <Text>Settings</Text>
         </View>
     );
 };
